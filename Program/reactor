@@ -1,13 +1,3 @@
--- ****************************************************** --
--- ****************************************************** --
--- **             Reactor Madness Program              ** --
--- **                 for Big Reactor                  ** --
--- **                Written by krakaen                ** --
--- **                  Video Tutorial                  ** --
--- ** 	https://www.youtube.com/watch?v=SbbT7ncyS2M    ** --
--- ****************************************************** --
--- ****************************************************** --
-
 -- ******** Version 0.1 Changelog (02/16/2016) ******** 
 -- Changed currentRFTotal to 1 (makes power show at start)
 
